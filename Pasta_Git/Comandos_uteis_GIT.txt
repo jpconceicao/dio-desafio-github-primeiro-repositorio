@@ -1,0 +1,7 @@
+Links de sites com dicas:
+
+- https://woliveiras.com.br/posts/comandos-mais-utilizados-no-git/
+- https://blog.geekhunter.com.br/comandos-git-mais-utilizados/
+- https://gist.github.com/leocomelli/2545add34e4fec21ec16
+- https://www.treinaweb.com.br/blog/comandos-do-git-que-voce-precisa-conhecer-parte-1
+
